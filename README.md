@@ -1,17 +1,21 @@
 ## Brandon's Projects
-# Cellular Automata 
+### Cellular Automata
+[Project Repository](https://github.com/ImanariRoll/cellular-automata)
 Simulate, visualize, and explore 2-dimensional, multi-generational cellular automata. Design custom rules, neighborhoods, and color maps to create mesmerizing animations. Built with Python, numpy, and pygame.
 
-# Productivity Track 
-productivity over time, and produce exploratory data analysis. Built with Python and sqlite. Analysis with jupyter notebook, pandas, numpy, and matplotlib.
+### Productivity
+[Project Repository](https://github.com/ImanariRoll/Productivity)
+Track productivity over time, and produce exploratory data analysis. Built with Python and sqlite. Analysis with jupyter notebook, pandas, numpy, and matplotlib.
 
-# React ECA 
+### React ECA
+[Project Repository](https://github.com/ImanariRoll/testRepo)
+[Live Demo](https://imanariroll.github.io/testRepo/)
 Simulate the elementary cellular automata in a web interface. Built with HMTL/CSS/Javascript and React JS.
 
-# RPi 
+### RPi
 Build an LED multiplex controlled by Raspberry Pi.
 
-# ---- default stuff below ----
+### ---- default stuff below ----
 
 You can use the [editor on GitHub](https://github.com/ImanariRoll/imanariroll.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
