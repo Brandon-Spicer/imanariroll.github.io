@@ -1,15 +1,15 @@
 ## Brandon's Projects
 ### Cellular Automata
-[Project Repository](https://github.com/ImanariRoll/cellular-automata)
+[Project Repository](https://github.com/ImanariRoll/cellular-automata) <br>
 Simulate, visualize, and explore 2-dimensional, multi-generational cellular automata. Design custom rules, neighborhoods, and color maps to create mesmerizing animations. Built with Python, numpy, and pygame.
 
 ### Productivity
-[Project Repository](https://github.com/ImanariRoll/Productivity)
+[Project Repository](https://github.com/ImanariRoll/Productivity) <br>
 Track productivity over time, and produce exploratory data analysis. Built with Python and sqlite. Analysis with jupyter notebook, pandas, numpy, and matplotlib.
 
 ### React ECA
-[Project Repository](https://github.com/ImanariRoll/testRepo)
-[Live Demo](https://imanariroll.github.io/testRepo/)
+[Project Repository](https://github.com/ImanariRoll/testRepo) <br>
+[Live Demo](https://imanariroll.github.io/testRepo/) <br>
 Simulate the elementary cellular automata in a web interface. Built with HMTL/CSS/Javascript and React JS.
 
 ### RPi
