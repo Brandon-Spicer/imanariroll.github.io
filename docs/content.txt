@@ -1,0 +1,29 @@
+Name
+Description
+Status
+Version
+
+<a href="https://github.com/ImanariRoll/cellular-automata">pyCA</a>
+A 2D multi-generational cellular automaton (CA) simulator and visualizer writen in python. It allows you to input custom rules, neighborhoods, and color schemes, and displays the CA in a pygame window. You can use keyboard controls to puase, rewind, and step through the CA evolution.
+Dormant
+3
+
+<a href="https://github.com/ImanariRoll/Productivity">Prod</a>
+A collection of scripts to create daily log files, record time spent working on projects, and store the results in a database. Inludes a jupyter notebook analyzing the time-tracking data with pandas/numpy/matplotlib. I'm currently working on a web interface for the time tracker.
+Working
+2
+
+<a href="https://github.com/ImanariRoll/ReactECA">ReactECA</a>
+A 1D elementary cellular automaton generator writen in React.
+Dormant
+2
+
+<a href="https://github.com/ImanariRoll/RPi">LEDmux</a>
+An LED multiplex display, built from components and soldered to a PCB, controlled by a raspberry pi with python. I'm planning to encase the display in resin and run a CA generator on it to make a cool CA lamp. Maybe I could sell these some day? I could be like the kleine bottle guy!
+Working
+1
+
+<a href="https://github.com/ImanariRoll/kaggleRGOL">KaggleRGOL</a>
+Kaggle hosts data science/machine learning competitions. I'm currently working on my first competition, predicting previous states in Conway's Game of Life using a convolutional neural net.
+Working
+1
