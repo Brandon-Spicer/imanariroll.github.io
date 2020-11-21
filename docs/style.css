@@ -1,3 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+
 .table-container {
   overflow-x: auto;
 }
@@ -12,6 +23,7 @@ h1, h3 {
 
 a {
   color: red;
+  text-decoration: none;
 }
 
 table {
@@ -23,4 +35,36 @@ td, th {
   text-align: left;
   vertical-align: top;
   padding: 10px;
+}
+
+#navbar {
+  margin-bottom: 50px;
+}
+
+#buttonContainer {
+  width: 300px;
+  height: 40px;
+  margin: auto;
+}
+
+.button {
+  float: left;
+  width: 100px;
+  height: 40px;
+  display: block;
+  margin: auto;
+  text-align: center;
+  vertical-align: center;
+  line-height: 40px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: red;
+  color: white;
+}
+
+.content {
+  margin: auto;
+  width: 500px;
 }

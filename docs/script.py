@@ -1,4 +1,4 @@
-# translate content.txt into index.html
+# translate content.txt into projects.html
 
 with open('content.txt', 'r') as f:
     lines = []
@@ -8,7 +8,7 @@ with open('content.txt', 'r') as f:
             lines.append(line)
 
     # create html file
-    with open('index.html', 'w') as g:
+    with open('projects.html', 'w') as g:
         for i in range(len(lines)):
             # opening html boilerplate
             if i == 0:
